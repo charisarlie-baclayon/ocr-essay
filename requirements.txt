@@ -1,0 +1,10 @@
+fastapi
+pydantic
+gradio-client
+uvicorn
+google-cloud-vision
+Pillow==9.5.0
+numpy
+python-dotenv
+opencv-python
+python-multipart
